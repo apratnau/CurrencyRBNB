@@ -1,0 +1,6 @@
+framework module Pods_CurrencyNBRB {
+  umbrella header "Pods-CurrencyNBRB-umbrella.h"
+
+  export *
+  module * { export * }
+}

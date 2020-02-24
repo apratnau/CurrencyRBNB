@@ -1,0 +1,33 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CurrencyNBRB' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  
+  # Network
+  pod 'Moya', '~> 11.0'
+  
+  pod 'Kingfisher'
+  
+  
+  # Database + Mapping
+  pod 'ObjectMapper', '~> 3.1'
+ 
+  
+  # UI
+  pod 'SnapKit', '~> 4.0.0'
+  pod 'NVActivityIndicatorView'
+ 
+ 
+  pod 'IPAPI'
+ 
+  pod 'JTAppleCalendar', '~> 8.0.1'
+  pod 'Charts'
+ 
+  
+  #Localization
+  pod 'Localize-Swift', '~> 2.0'
+
+
+end
