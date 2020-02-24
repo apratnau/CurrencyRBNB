@@ -9,16 +9,16 @@ PODS:
     - Kingfisher/Core (= 5.12.0)
   - Kingfisher/Core (5.12.0)
   - Localize-Swift (2.0.0)
-  - Moya (11.0.2):
-    - Moya/Core (= 11.0.2)
-  - Moya/Core (11.0.2):
+  - Moya (12.0.1):
+    - Moya/Core (= 12.0.1)
+  - Moya/Core (12.0.1):
     - Alamofire (~> 4.1)
-    - Result (~> 3.0)
+    - Result (~> 4.0)
   - NVActivityIndicatorView (4.8.0):
     - NVActivityIndicatorView/Presenter (= 4.8.0)
   - NVActivityIndicatorView/Presenter (4.8.0)
   - ObjectMapper (3.5.1)
-  - Result (3.2.4)
+  - Result (4.1.0)
   - SnapKit (4.0.1)
 
 DEPENDENCIES:
@@ -27,7 +27,7 @@ DEPENDENCIES:
   - JTAppleCalendar (~> 8.0.1)
   - Kingfisher
   - Localize-Swift (~> 2.0)
-  - Moya (~> 11.0)
+  - Moya (~> 12.0)
   - NVActivityIndicatorView
   - ObjectMapper (~> 3.1)
   - SnapKit (~> 4.0.0)
@@ -53,12 +53,12 @@ SPEC CHECKSUMS:
   JTAppleCalendar: 932cadea40b1051beab10f67843451d48ba16c99
   Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
   Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
-  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  Moya: cf730b3cd9e005401ef37a85143aa141a12fd38f
   NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
   ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
-  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
   SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
 
-PODFILE CHECKSUM: c42ce2510aba6accd3840f6624b12f7096706c70
+PODFILE CHECKSUM: 9023c525a94b56549bb0a519013af19f587456f8
 
 COCOAPODS: 1.8.4
